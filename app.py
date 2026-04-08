@@ -52,7 +52,7 @@ if st.sidebar.button("Run Prediction"):
     
     with torch.no_grad():
         prediction = model(torch.from_numpy(dummy_input))
-        final_pm25 = prediction.item() * 100 
+        final_pm25 = prediction.item() * 150 
     
     st.metric(label="Predicted PM2.5 Level", value=f"{final_pm25:.2f} µg/m³")
 
