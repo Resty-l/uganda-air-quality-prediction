@@ -3,12 +3,10 @@
 
 This capstone project addresses the gap in air quality monitoring across Uganda by leveraging **Sentinel-5P satellite data** and **ground-level sensor measurements**. It provides a scalable solution to estimate air pollution ($PM_{2.5}$) in regions without physical sensors.
 
----
 
 ## 🔗 Live Application
 **Check out the live dashboard here:** [Your Streamlit App Link](https://streamlit.io)
 
----
 
 ## 📌 Project Overview
 *   **The Problem:** High-cost ground sensors limit air quality monitoring to specific urban hubs. 
@@ -29,7 +27,7 @@ This capstone project addresses the gap in air quality monitoring across Uganda 
 - **Historical Analysis:** Integrated charts showing the correlation between ground truth and satellite observations.
 
 ## 📂 Repository Structure
-```text
+
 ├── app.py                         # Streamlit web application
 ├── requirements.txt               # Project dependencies
 ├── aqi_cnn_lstm_model.pth         # Trained PyTorch model weights
@@ -57,8 +55,6 @@ This project utilizes **Multi-Sensor Data Fusion** to bridge the gap between spa
 
 ## 🏁 Conclusion
 This project successfully demonstrates the potential of **Multi-Sensor Data Fusion**—combining ground-level sensors with satellite observations—to predict air quality in resource-constrained environments like Uganda. By achieving a **Mean Absolute Error of 6.30 µg/m³**, the model provides a reliable, low-cost alternative to physical monitoring stations. Aligning these predictions with **WHO 2021 Global Air Quality Guidelines** ensures that raw data is translated into actionable health insights for the community.
-
----
 
 ## 🔮 Future Work & Scalability
 To further enhance the system's accuracy and utility, future iterations could include:
