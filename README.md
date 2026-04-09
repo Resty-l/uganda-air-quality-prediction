@@ -4,12 +4,9 @@
 ## Abstract
 This capstone project investigates the efficacy of using remote sensing data as a proxy for ground-level atmospheric monitoring in resource-constrained environments. By fusing Sentinel-5P satellite observations with localized sensor data from the AirQo network, this study develops a hybrid CNN-LSTM architecture to estimate PM2.5 concentrations across the Ugandan landscape, specifically addressing the infrastructure gap in traditional monitoring networks.
 
----
-
 ## 🔗 Technical Deployment
 **Web-based Inference Dashboard:** [View Application](https://streamlit.io)
 
----
 
 ## 1. Problem Statement
 Air quality monitoring in Sub-Saharan Africa is hindered by the high capital expenditure required for stationary monitoring stations. In Uganda, urban centers like Kampala experience significant particulate matter fluctuations, yet rural and peri-urban areas remain unmonitored. This research proposes a scalable, cost-effective alternative by calibrating satellite-derived Aerosol Index (AI) data against localized ground truth measurements.
@@ -38,6 +35,5 @@ In accordance with the **WHO 2021 Global Air Quality Guidelines**, the system cl
 ## 6. Conclusion
 The results indicate that satellite-ground data fusion provides a statistically significant estimation of localized air quality. This methodology demonstrates that remote sensing can effectively augment ground-level monitoring networks, providing a viable pathway for regional environmental policy-making and respiratory health risk mitigation.
 
----
-**Investigator:** [Your Name]  
-**Institutional Context:** Capstone Research Project 2024  
+**Investigator:** Resty Lalam
+**Institutional Context:** Capstone Research Project 2026 
