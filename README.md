@@ -32,7 +32,7 @@ In accordance with the WHO 2021 Global Air Quality Guidelines, the system classi
 *   `requirements.txt`: Environment configuration and dependency manifest.
 *   `training_data_with_satellite.csv`: Curated dataset containing aligned spatiotemporal features.
 
-## 6. Conclusion
+## Conclusion
 The results indicate that satellite-ground data fusion provides a statistically significant estimation of localized air quality. This methodology demonstrates that remote sensing can effectively augment ground-level monitoring networks, providing a viable pathway for regional environmental policy-making and respiratory health risk mitigation.
 
 **Investigator:** Resty Lalam
