@@ -1,4 +1,4 @@
-# Spatiotemporal Air Quality Estimation in Uganda
+#  Air Quality Estimation in Uganda
 ### *A Computational Framework Integrating Satellite-Derived Aerosol Indices and Ground-Level PM2.5 Measurements*
 
 ## Abstract
