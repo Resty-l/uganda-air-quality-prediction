@@ -44,7 +44,7 @@ def get_data():
 
 # --- 3. UI SETUP ---
 st.set_page_config(page_title="Uganda Air Quality Tracker", layout="wide")
-st.title("🌍 Uganda Air Quality Tracker (Kampala-Focused)")
+st.title(" Air Quality Tracker ")
 
 # Sidebar
 st.sidebar.header("Real-time Environment Data")
